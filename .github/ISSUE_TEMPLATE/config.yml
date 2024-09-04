@@ -1,5 +1,5 @@
 # shows a link to create blank issue in the bottom left of issue page
-blank_issues_enabled: true
+blank_issues_enabled: false
 # allows for doing other things, apart from creating issues like asking questions or joining a server etc
 contact_links:
   - name: Discord
