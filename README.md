@@ -1,4 +1,4 @@
-# issueTemplate
+# Awesome Issue Template
 
 this repo is for creating and experimenting with GitHub issue templates and different options available for it.
 
