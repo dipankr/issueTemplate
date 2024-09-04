@@ -1,3 +1,4 @@
+# custom bug-report template
 name: Bug Report
 description: Report a bug
 labels: ["bug"]

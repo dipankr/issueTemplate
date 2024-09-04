@@ -1,3 +1,4 @@
+# custom enhancement template
 name: New feature
 description: Suggest/request a new feature
 labels: ["enhancement"]
